@@ -17,7 +17,6 @@ package cv;
 			     			System.out.println("Number is zero");
 			     		
 			     		}
-			     			sc.close();
-
+			     			sc.close()
 			     }
 	
