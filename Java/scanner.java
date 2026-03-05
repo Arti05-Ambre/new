@@ -18,5 +18,4 @@ package cv;
 			     		
 			     		}
 			     			sc.close()
-			     }
-	
+			
