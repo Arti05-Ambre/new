@@ -14,7 +14,7 @@ package cv;
 			     			System.out.println("Number is negative");
 			     		} 
 			     		else {
-			     			System.out.println("Number is zero");
+			     			System.out.println("Number is zero").
 			     	
 			     		}
 			     			sc.close()
