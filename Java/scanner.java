@@ -16,6 +16,6 @@ package cv;
 			     		else {
 			     			System.out.println("Number is zero");
 			     	
-			     		}
+			     		} 
 			     			sc.close()
 			  
